@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+PUBLIC "-//ibatis.apache.org//DTD Mapper 3.0//EN"
+"http://ibatis.apache.org/dtd/ibatis-3-mapper.dtd">
+<mapper namespace="com.klink.persistence.mapper.CompanyMapper">
+
+	<resultMap type="Company" id="companyMap">
+		<id column="id" javaType="long" property="id"/>
+		<result column="name" javaType="String" property="name"/>
+	</resultMap>
+
+	<select id="selectCompany" parameterType="long" resultType="Company" resultMap="companyMap">
+		SELECT
+			ID, NAME
+		FROM
+			KLINK.COMPANY
+		WHERE
+			id = #{id}
+	</select>
+
+
+	
+</mapper>

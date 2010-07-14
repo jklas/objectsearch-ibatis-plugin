@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/modelsearch/!svn/ver/134/trunk/test-ibatis/com/jklas/search/interceptors/ibatis/mapper
+END
+CompanyMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/modelsearch/!svn/ver/140/trunk/test-ibatis/com/jklas/search/interceptors/ibatis/mapper/CompanyMapper.java
+END
+JobMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/modelsearch/!svn/ver/134/trunk/test-ibatis/com/jklas/search/interceptors/ibatis/mapper/JobMapper.java
+END
+PersonMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/modelsearch/!svn/ver/134/trunk/test-ibatis/com/jklas/search/interceptors/ibatis/mapper/PersonMapper.java
+END

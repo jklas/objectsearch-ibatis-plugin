@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/modelsearch/!svn/ver/134/trunk/test-ibatis/com/jklas/search/interceptors/ibatis/xml
+END
+Company.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/modelsearch/!svn/ver/140/trunk/test-ibatis/com/jklas/search/interceptors/ibatis/xml/Company.xml
+END
+Job.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/modelsearch/!svn/ver/134/trunk/test-ibatis/com/jklas/search/interceptors/ibatis/xml/Job.xml
+END
+Person.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/modelsearch/!svn/ver/134/trunk/test-ibatis/com/jklas/search/interceptors/ibatis/xml/Person.xml
+END
